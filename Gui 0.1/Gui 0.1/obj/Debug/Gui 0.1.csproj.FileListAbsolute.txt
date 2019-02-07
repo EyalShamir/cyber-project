@@ -1,0 +1,9 @@
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\Gui 0.1\bin\Debug\Gui 0.1.exe.config
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\Gui 0.1\bin\Debug\Gui 0.1.exe
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\Gui 0.1\bin\Debug\Gui 0.1.pdb
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\Gui 0.1\obj\Debug\Gui 0.1.csprojResolveAssemblyReference.cache
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\Gui 0.1\obj\Debug\Gui_0._1.Form1.resources
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\Gui 0.1\obj\Debug\Gui_0._1.Properties.Resources.resources
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\Gui 0.1\obj\Debug\Gui 0.1.csproj.GenerateResource.Cache
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\Gui 0.1\obj\Debug\Gui 0.1.exe
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\Gui 0.1\obj\Debug\Gui 0.1.pdb

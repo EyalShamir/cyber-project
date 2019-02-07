@@ -1,0 +1,6 @@
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\test_prg2\test_prg2\bin\Debug\test_prg2.exe.config
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\test_prg2\test_prg2\bin\Debug\test_prg2.exe
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\test_prg2\test_prg2\bin\Debug\test_prg2.pdb
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\test_prg2\test_prg2\obj\Debug\test_prg2.csprojResolveAssemblyReference.cache
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\test_prg2\test_prg2\obj\Debug\test_prg2.exe
+Z:\Eyal Shamir\gui\WindowsFormsApplication1\Gui 0.1\test_prg2\test_prg2\obj\Debug\test_prg2.pdb
